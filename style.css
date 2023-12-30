@@ -148,7 +148,9 @@
 
 /* Page Loader Animation CSS */
 #loading{
-    background-color: #000000;
+    background-color: black;
+    opacity:1;
+    z-index:99;
     padding: 0;
     margin: 0;
 }
