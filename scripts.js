@@ -13,7 +13,7 @@ $(document).ready(function() {
     // Load blog posts dynamically (replace this with your actual data loading logic)
     $('#posts').html('<h2>Loading...</h2>');
     setTimeout(function() {
-        $('#posts').html('<h2>Latest Posts</h2><p>1. Sample Post 1</p><p>2. Sample Post 2</p><p>3. Sample Post 3</p>');
+        $('#posts').html('<h2>Latest Posts</h2><p><a href="post.html/#blog-content">किताब पढ्नुका १७ फाइदा</a></p><p>2. Sample Post 2</p><p>3. Sample Post 3</p>');
     }, 2000);
 });
 
