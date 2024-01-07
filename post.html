@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Posts</title>
+    <!-- Add Bootstrap CSS link -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Add custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <h1 class="mt-5 mb-3">किताब पढ्नुका १७ फाइदा</h1>
+                <p class="text-muted">Published on January 7, 2024</p>
+
+                <div id="blog-content">
+                    <p>१, गरिब, दुःखी, बिरामी, बृद्ध-बृद्धा, भिखारीहरु पनि मान्छेहरू देखिन थाल्छन् । २, बन्दुक र चक्कुभन्दा खतरनाक हतियार जिब्रो र शब्द हो भन्ने बुझिन्छ । ३, आखिरमा चोरले किन चोरी गर्छ भन्ने बुझिन्छ । ४, कसैबाट गल्ती भएमा उसलाई माफ गर्ने हौसला आउँछ । ५, कहाँ बोल्नु पर्छ र कहाँ चुप बस्नु पर्छ बुझिन्छ । ६, आमा-बुबाको मूल्य बुझिन्छ । ७, ब्रेकअप, छोडपत्र, प्रियजनहरूको मृत्युजस्ता कुराहरूले जीवन समाप्त हुन्छ भन्ने गलत बुझाई समाप्त हुन्छ । जीवनमा यस्ता घटनाहरू पनि सामान्य लाग्न थाल्छन् । ८, सामाजिक सञ्जालमा जो मान्छेहरू हँसिलो तस्बिरहरू पोष्ट गर्दछन् वास्तबमा उनीहरू कति दुःखी हुन्छन् भन्ने बुझिन्छ । ९, प्रेम र कामवासनाको अन्तर बुझिन्छ । १०, स्वास्थ्य सबै भन्दा अनमोल सम्पत्ति हो भन्ने बुझिन्छ । ११, यदि सच्चा आचरणको कारण किताब पढ्ने मान्छेहरू हारे पनि उनीहरूमा आत्महत्याको बिचार दिमागमा आउँदैन । ११, जोसँग करौडौंको सम्पत्ति हुन्छ उनीहरूको गरिबी र जो दैनिक १००-२०० रूपैयाँ कमाउँछन् उनीहरूको समृद्धि देखिन्छ । १२, जीवनमा शिक्षाको महत्त्व बुझिन्छ । १३, फिल्ममा नाटक गर्ने कलाकार त सबैले देख्दछन् तर दैनिक बास्तबिक जीवनमा धेरै मान्छेहरूले त्योभन्दा राम्रो नाटक गरिराखेका हुन्छन् । यो तथ्य केवल धेरै किताब पढ्ने अनुभबी मान्छेहरूले मात्र पहिचान गर्न सक्छन् । १४, धेरै किताब पढ्ने मान्छेहरूलाई केवल एउटा मात्रै जातका बारेमा थाहा हुन्छ त्यो हो- मानवता । १५, हारेका मान्छेहरूलाई प्रेरित गर्नाले उनीहरूले फेरी जित्न सक्छन् यो अध्ययनशील मान्छेहरूलाई थाहा हुन्छ । १६, यस धरतीमा १ प्रतिशत मान्छेहरू असल हुन्छन् र १ प्रतिशत मान्छेहरू खराब हुन्छन् । बचेका ९८ प्रतिशत हामी सबै मान्छेहरू मात्र उनीहरूको अनुयायी हौं । केही मान्छेहरू असल मान्छेहरूको अनुकरण गरेर असल बन्दछन् र केही मान्छेहरू खराब मान्छेहरूको पछि लागेर खराब बन्दछन् । यो तथ्य अध्यनशील मान्छेहरूलाई थाहा हुन्छ । १७, लगनशील मान्छेहरूले अरूमाथि हिलो छ्याप्दैनन् बरू समय -समयमा आफ्नो चश्मा सफा गर्दछन् ।
+</p>
+                </div>
+
+                <hr>
+
+                <!-- Comments Section -->
+                <h3 class="mt-4 mb-3">Comments</h3>
+                <div id="comments">
+                    <!-- Comments will be added dynamically using JavaScript/jQuery -->
+                </div>
+
+                <!-- Add Comment Form -->
+                <form id="commentForm">
+                    <div class="form-group">
+                        <label for="commentName">Name:</label>
+                        <input type="text" class="form-control" id="commentName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="commentContent">Comment:</label>
+                        <textarea class="form-control" id="commentContent" rows="3" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Add Comment</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add Bootstrap JS and jQuery libraries -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Add custom JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
