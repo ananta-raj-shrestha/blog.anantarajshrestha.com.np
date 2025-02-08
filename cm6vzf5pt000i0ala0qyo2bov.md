@@ -1,5 +1,5 @@
 ---
-title: "नेपालमा सूचना प्रविधिको बढ्दो प्रयोग र साइबर सरक्षा"
+title: "नेपालमा सूचना प्रविधिको बढ्दो प्रयोग र साइबर सुरक्षा"
 seoTitle: "digital nepal,cybersecurity"
 datePublished: Sat Feb 08 2025 09:17:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm6vzf5pt000i0ala0qyo2bov
