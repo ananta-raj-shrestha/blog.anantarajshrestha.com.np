@@ -1,12 +1,12 @@
 ---
 title: "नेपालमा सूचना प्रविधिको बढ्दो प्रयोग र साइबर सुरक्षा"
-seoTitle: "digital nepal,cybersecurity"
+seoTitle: "नेपालमा सूचना प्रविधिको बढ्दो प्रयोग र साइबर सुरक्षा"
 datePublished: Sat Feb 08 2025 09:17:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm6vzf5pt000i0ala0qyo2bov
 slug: napalma-sacana-paravathhaka-bdhatha-parayaga-ra-saibra-sarakashha
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739005983017/f7683c24-cb3b-4317-b328-f9452105bd2c.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739006225905/5cbb1599-0ac0-4eb6-ab07-a49c6d4e89e1.png
-tags: cybersecurity, nepal, digitalnepal
+tags: cybersecurity, nepal, digitalnepal, napalma-sacana-paravathhaka-bdhatha-parayaga-ra-saibra-sarakashha
 
 ---
 
