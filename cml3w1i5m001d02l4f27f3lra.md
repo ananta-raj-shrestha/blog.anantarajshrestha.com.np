@@ -1,8 +1,11 @@
 ---
 title: "नेपालमा सरकारी निकायको वेबसाइट निःशुल्क बनाउने प्रक्रिया"
+seoTitle: "Government Website, Digital Nepal, Cyber Security"
 datePublished: Sun Feb 01 2026 15:20:55 GMT+0000 (Coordinated Universal Time)
 cuid: cml3w1i5m001d02l4f27f3lra
 slug: napalma-sarakara-nakayaka-vabsaita-nashalka-bnauna-parakaraya
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769960095458/ef2c82b7-f137-4cd6-abf5-e88932c8ef14.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769960118480/e3c053ed-9a21-4aac-aa0b-2e9cdb664324.png
 tags: website, government, nepal
 
 ---
